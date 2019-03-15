@@ -1,12 +1,12 @@
 # Site settings
-title:
+title: Flocks Cluster Manager
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: FlocksCM
 
 # Build settings
 markdown: kramdown
